@@ -6,12 +6,12 @@ Desenvolver a partir dos conhecimentos e pesquisas sobre HTML, CSS, Python Flask
 Eu e minha dupla escolhemos o tema dos Ursinhos Carinhosos para que o público de todas as idades se sentisse bem em jogar, sendo um jogo simples com efeitos visuais. Nós criamos o jogo querendo que fosse algo dinâmico e que fosse agradável, utilizando os recursos visuais, utilizamos da identidade visual, cores que encontramos e achamos que marcariam o nosso jogo de uma forma que se encaixasse com nosso protótipo, layouts e desenvolvimento.
 
 ## DESENVOLVIMENTO:
-![print inicio](/static/prints/index.png)
-![print entrar](/static/prints/como.png)
-![print cadastro](/static/prints/como1.png)
-![print chat](/static/prints/como2.png)
-![print chat](/static/prints/como3.png)
-![print chat](/static/prints/antes.png)
+![print inicio](/static/assets/prints/index.png)
+![print entrar](/static/assets/prints/como.png)
+![print cadastro](/static/assets/prints/como1.png)
+![print chat](/static/assets/prints/como2.png)
+![print chat](/static/assets/prints/como3.png)
+![print chat](/static/assets/prints/antes.png)
 
 
 # PARTICIPAÇÕES E LINKS
