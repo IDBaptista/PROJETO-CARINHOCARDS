@@ -12,6 +12,8 @@ Eu e minha dupla escolhemos o tema dos Ursinhos Carinhosos para que o público d
 ![print chat](/static/assets/prints/como2.png)
 ![print chat](/static/assets/prints/como3.png)
 ![print chat](/static/assets/prints/antes.png)
+![print chat](/static/assets/prints/jogo.png)
+
 
 
 # PARTICIPAÇÕES E LINKS
