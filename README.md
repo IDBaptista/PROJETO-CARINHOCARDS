@@ -1,5 +1,5 @@
 # PROJETO-CARINHOCARDS
-O Projeto CarinhoCards do curso Desenvolvimento de Sistemas (3° Sementre) foi uma prática nas linguagens HTML, CSS, Python Flask e JavaScript.
+O Projeto CarinhoCards do curso Desenvolvimento de Sistemas (3° Semestre) foi uma prática nas linguagens HTML, CSS, Python Flask e JavaScript.
 
 # FINALIDADE
 Desenvolver a partir dos conhecimentos e pesquisas sobre HTML, CSS, Python Flask e JavaScript um jogo de cartas baseado em Trunfo onde nós temos diferentes cartas com valores de ataque e defesa onde você joga com um bot. 
