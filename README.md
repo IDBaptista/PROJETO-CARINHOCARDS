@@ -20,11 +20,9 @@ Eu e minha dupla escolhemos o tema dos Ursinhos Carinhosos para que o público d
 
 Participações
 > [Beatriz Marques](https://github.com/biaamarquess)  
-> [Gabriel Theodoro](https://github.com/theodoro2115)  
-> [Maria Eduarda Gomes](https://github.com/MariaGomesR)  
 
 Links
-> [Protótipo](https://www.canva.com/design/DAGfkRwHkgI/S7eH6pYQHLfHt03h0Nio8Q/view?utm_content=DAGfkRwHkgI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h89dbb2d4bb)
+> [Protótipo](https://www.canva.com/design/DAGh5m8mEN0/bzE7ba_pmRTeLxJyiVTr0A/view?utm_content=DAGh5m8mEN0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1e22a00e7)
 
-> [Link Renderizado](https://projeto-chat-kittyweb.onrender.com)
+> [Link Renderizado](https://projeto-carinhocards.onrender.com)
 
